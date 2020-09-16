@@ -1,0 +1,23 @@
+{
+  "name": "holitravel",
+  "version": "1.0.0",
+  "description": "Web for holitravel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Index24/travel.git"
+  },
+  "keywords": [
+    "travel",
+    "tour"
+  ],
+  "author": "Arif Balaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Index24/travel/issues"
+  },
+  "homepage": "https://github.com/Index24/travel#readme"
+}
